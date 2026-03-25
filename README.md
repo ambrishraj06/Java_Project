@@ -158,6 +158,7 @@ These are fine for a course project. Would be problems for actual deployment.
 | Lines of Code | ~280 |
 | External Dependencies | None |
 | Testing | Manual |
+
 ---
 
 ## Author
@@ -166,7 +167,9 @@ These are fine for a course project. Would be problems for actual deployment.
 Roll Number: 24BHI10019
 Course: Java Programming
 March 2026
+
 ---
 
 ## License
+
 This is a student project for educational purposes. Feel free to use it for learning, but don't copy it directly for your own assignments - that defeats the purpose of learning.

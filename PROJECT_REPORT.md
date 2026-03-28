@@ -6,7 +6,6 @@ Console application project type
 
 Java JDK 8+
 
-Code Lines Approximately 280
 -------------------------------------------------------------------------------------------------------------------------------
 
 1. What I Wanted to Create and the Reasons Behind It
